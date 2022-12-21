@@ -1,1 +1,1 @@
-# Data Structures and Algortihms practice
+# Data Structures and Algortihms practice using TypeScript
